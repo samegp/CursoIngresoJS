@@ -10,7 +10,5 @@ function mostrar()
 		alert('es muy pequeñe para NO ser soltero');		
 	}
 
-	
-
 
 }//FIN DE LA FUNCIÓN
